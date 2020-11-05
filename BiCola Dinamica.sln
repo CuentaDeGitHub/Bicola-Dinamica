@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiCola Dinamica", "BiCola Dinamica\BiCola Dinamica.csproj", "{547778FE-40DA-43AD-A57D-26A594F33868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{547778FE-40DA-43AD-A57D-26A594F33868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547778FE-40DA-43AD-A57D-26A594F33868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547778FE-40DA-43AD-A57D-26A594F33868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547778FE-40DA-43AD-A57D-26A594F33868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40DE0664-AF24-4FC9-9282-C36B5A36025F}
+	EndGlobalSection
+EndGlobal

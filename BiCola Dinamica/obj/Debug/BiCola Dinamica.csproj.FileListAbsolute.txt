@@ -1,0 +1,10 @@
+C:\Users\Gerar\source\repos\BiCola Dinamica\BiCola Dinamica\bin\Debug\BiCola Dinamica.exe.config
+C:\Users\Gerar\source\repos\BiCola Dinamica\BiCola Dinamica\bin\Debug\BiCola Dinamica.exe
+C:\Users\Gerar\source\repos\BiCola Dinamica\BiCola Dinamica\bin\Debug\BiCola Dinamica.pdb
+C:\Users\Gerar\source\repos\BiCola Dinamica\BiCola Dinamica\obj\Debug\BiCola Dinamica.csprojAssemblyReference.cache
+C:\Users\Gerar\source\repos\BiCola Dinamica\BiCola Dinamica\obj\Debug\BiCola_Dinamica.Form1.resources
+C:\Users\Gerar\source\repos\BiCola Dinamica\BiCola Dinamica\obj\Debug\BiCola_Dinamica.Properties.Resources.resources
+C:\Users\Gerar\source\repos\BiCola Dinamica\BiCola Dinamica\obj\Debug\BiCola Dinamica.csproj.GenerateResource.cache
+C:\Users\Gerar\source\repos\BiCola Dinamica\BiCola Dinamica\obj\Debug\BiCola Dinamica.csproj.CoreCompileInputs.cache
+C:\Users\Gerar\source\repos\BiCola Dinamica\BiCola Dinamica\obj\Debug\BiCola Dinamica.exe
+C:\Users\Gerar\source\repos\BiCola Dinamica\BiCola Dinamica\obj\Debug\BiCola Dinamica.pdb
